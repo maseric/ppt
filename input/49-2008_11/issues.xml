@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<issues version="1.0">
+    <issue>
+		<begin>Begin</begin>
+		<end>End</end>
+		<description>Description</description>
+		<impacts>Impacts</impacts>
+		<actions>Actions</actions>
+    </issue>
+    <issue>
+		<begin>Mon 01/12 11:15</begin>
+		<end>01/12 11:30</end>
+		<description>Airbus People issue</description>
+		<impacts>Slow Response time on AirbusPeople portal.</impacts>
+		<actions> </actions>
+    </issue>
+    <issue>
+		<begin>Mon 01/12 17:00</begin>
+		<end>01/12 17:30</end>
+		<description>u.go Expense errors</description>
+		<impacts>u.go Expense partially unavailable.
+Errors displayed messages on web pages.
+Pb # 124987
+19 incidents</impacts>
+		<actions> </actions>
+    </issue>
+    <issue>
+		<begin>Fri 05/12 7:00</begin>
+		<end>05/12 8:00</end>
+		<description>KDS v6.7</description>
+		<impacts> </impacts>
+		<actions> </actions>
+    </issue>
+    <issue>
+		<begin>Fri 05/12 18:00</begin>
+		<end>09/12 20:00</end>
+		<description>Expense ECC6 migration</description>
+		<impacts>From Friday the 5th of December 2008 at 18:00 to Tuesday the 9th of December 2008 at 20:00 (CET).</impacts>
+		<actions> </actions>
+    </issue>
+    <issue>
+		<begin>Fri 05/12 11:45</begin>
+		<end>05/12 14:15</end>
+		<description>KDS unscheduled outage</description>
+		<impacts>u.go Booking is unstable.</impacts>
+		<actions> </actions>
+    </issue>
+</issues>
