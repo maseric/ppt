@@ -1,0 +1,1146 @@
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:18:11 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:18:11 DEBUG [main] sax.PageHandler - End parsing
+2009-Feb-10 18:18:11 DEBUG [main] sax.PageHandler - Resultats du parsing
+2009-Feb-10 18:18:11 DEBUG [main] sax.PageHandler - ### PAGE ###
+type: title
+title: u.go Service Performance Board
+week: 49
+year: 2008
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 92.45
+prevAv: 81.25
+responseTime: 40.89
+prevRt: 43.67
+rtMax: 40.0
+rtMin: 36.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 1
+Status : status 2
+Status : test2
+héhé
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 98.81
+prevAv: 90.47
+responseTime: 26.19
+prevRt: 29.11
+rtMax: 40.0
+rtMin: 35.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 4
+Status : status 5
+Status : Coucou héhé
+-----------------------
+### PAGE ###
+type: calendar
+calendar: 
+Day :
+col0: Monday 01/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: orange
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Tuesday 02/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Wednesday 03/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Thursday 04/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Friday 05/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: dodgerblue
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: orange
+col14: orange
+col15: green
+col16: green
+col17: green
+col18: white
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Saturday 06/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Sunday 07/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+-----------------------
+### PAGE ###
+type: issues
+issues: 
+issue :
+begin: Begin
+end: End
+description: Description
+impacts: Impacts
+actions: Actions
+issue :
+begin: Mon 01/12 11:15
+end: 01/12 11:30
+description: Airbus People issue
+impacts: 
+					Slow Response time on AirbusPeople portal.
+				
+actions: 
+issue :
+begin: Mon 01/12 17:00
+end: 01/12 17:30
+description: u.go Expense errors
+impacts: 
+					u.go Expense partially unavailable. Errors displayed
+					messages on web pages. Pb # 124987 19 incidents
+				
+actions: 
+issue :
+begin: Fri 05/12 7:00
+end: 05/12 8:00
+description: KDS v6.7
+impacts: 
+actions: 
+issue :
+begin: Fri 05/12 18:00
+end: 09/12 20:00
+description: Expense ECC6 migration
+impacts: 
+					From Friday the 5th of December 2008 at 18:00 to
+					Tuesday the 9th of December 2008 at 20:00 (CET).
+				
+actions: 
+issue :
+begin: Fri 05/12 11:45
+end: 05/12 14:15
+description: KDS unscheduled outage
+impacts: u.go Booking is unstable.
+actions: 
+-----------------------
+### PAGE ###
+type: legal
+-----------------------
+
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Title slide
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Calendar slide
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Issues slide
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - Row #1 height=55
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - Row #2 height=55
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - Row #3 height=55
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - Row #4 height=55
+2009-Feb-10 18:18:11 DEBUG [main] Template.TemplateSlide - Row #5 height=55
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Legal slide
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### Saving new slideshow
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - Output file : "C:/Share/eclipse/workspace/ppt/output/2008-W49_u.go_Service_Performance_Board.ppt"
+2009-Feb-10 18:18:11 INFO  [main] generator.XmlReporter - ### END ###
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:21:10 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:21:10 DEBUG [main] sax.PageHandler - End parsing
+2009-Feb-10 18:21:10 DEBUG [main] sax.PageHandler - Resultats du parsing
+2009-Feb-10 18:21:10 DEBUG [main] sax.PageHandler - ### PAGE ###
+type: title
+title: u.go Service Performance Board
+week: 49
+year: 2008
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 92.45
+prevAv: 81.25
+responseTime: 40.89
+prevRt: 43.67
+rtMax: 40.0
+rtMin: 36.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 1
+Status : status 2
+Status : test2
+héhé
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 98.81
+prevAv: 90.47
+responseTime: 26.19
+prevRt: 29.11
+rtMax: 40.0
+rtMin: 35.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 4
+Status : status 5
+Status : Coucou héhé
+-----------------------
+### PAGE ###
+type: calendar
+calendar: 
+Day :
+col0: Monday 01/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: orange
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Tuesday 02/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Wednesday 03/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Thursday 04/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Friday 05/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: dodgerblue
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: orange
+col14: orange
+col15: green
+col16: green
+col17: green
+col18: white
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Saturday 06/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Sunday 07/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+-----------------------
+### PAGE ###
+type: issues
+issues: 
+issue :
+begin: Begin
+end: End
+description: Description
+impacts: Impacts
+actions: Actions
+issue :
+begin: Mon 01/12 11:15
+end: 01/12 11:30
+description: Airbus People issue
+impacts: 
+					Slow Response time on AirbusPeople portal.
+				
+actions: 
+issue :
+begin: Mon 01/12 17:00
+end: 01/12 17:30
+description: u.go Expense errors
+impacts: 
+					u.go Expense partially unavailable. Errors displayed
+					messages on web pages. Pb # 124987 19 incidents
+				
+actions: 
+issue :
+begin: Fri 05/12 7:00
+end: 05/12 8:00
+description: KDS v6.7
+impacts: 
+actions: 
+issue :
+begin: Fri 05/12 18:00
+end: 09/12 20:00
+description: Expense ECC6 migration
+impacts: 
+					From Friday the 5th of December 2008 at 18:00 to
+					Tuesday the 9th of December 2008 at 20:00 (CET).
+				
+actions: 
+issue :
+begin: Fri 05/12 11:45
+end: 05/12 14:15
+description: KDS unscheduled outage
+impacts: u.go Booking is unstable.
+actions: 
+-----------------------
+### PAGE ###
+type: legal
+-----------------------
+
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Title slide
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:21:10 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:21:10 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:21:10 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:21:10 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:21:10 INFO  [main] generator.XmlReporter - ### Calendar slide
+2009-Feb-10 18:21:11 INFO  [main] generator.XmlReporter - ### Issues slide
+2009-Feb-10 18:21:11 DEBUG [main] Template.TemplateSlide - Row #1 height=55
+2009-Feb-10 18:21:11 DEBUG [main] Template.TemplateSlide - Row #2 height=55
+2009-Feb-10 18:21:11 DEBUG [main] Template.TemplateSlide - Row #3 height=55
+2009-Feb-10 18:21:11 DEBUG [main] Template.TemplateSlide - Row #4 height=55
+2009-Feb-10 18:21:11 DEBUG [main] Template.TemplateSlide - Row #5 height=55
+2009-Feb-10 18:21:11 INFO  [main] generator.XmlReporter - ### Legal slide
+2009-Feb-10 18:21:11 INFO  [main] generator.XmlReporter - ### Saving new slideshow
+2009-Feb-10 18:21:11 INFO  [main] generator.XmlReporter - Output file : "C:/Share/eclipse/workspace/ppt/output/2008-W49_u.go_Service_Performance_Board.ppt"
+2009-Feb-10 18:21:11 INFO  [main] generator.XmlReporter - ### END ###
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:21:58 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:21:58 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:21:58 ERROR [main] generator.XmlReporter - java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.io.FileInputStream.<init>(FileInputStream.java:66)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1316)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1168)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1068)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:988)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:22:09 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:22:09 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:22:09 ERROR [main] generator.XmlReporter - java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.io.FileInputStream.<init>(FileInputStream.java:66)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1316)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1168)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1068)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:988)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:22:17 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:22:17 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:22:17 ERROR [main] generator.XmlReporter - java.io.FileNotFoundException: \style.dtd (The system cannot find the file specified)
+java.io.FileNotFoundException: \style.dtd (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.io.FileInputStream.<init>(FileInputStream.java:66)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1316)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1168)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1068)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:988)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:23:38 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:23:38 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:23:38 ERROR [main] generator.XmlReporter - org.xml.sax.SAXParseException: The document type declaration for root element type "STYLE" must end with '>'.
+org.xml.sax.SAXParseException: The document type declaration for root element type "STYLE" must end with '>'.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:195)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:174)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:388)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1411)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.scanDoctypeDecl(XMLDocumentScannerImpl.java:722)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:965)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:24:05 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:24:05 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:24:05 ERROR [main] generator.XmlReporter - java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\style.dtd (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.io.FileInputStream.<init>(FileInputStream.java:66)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1316)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1168)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1068)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:988)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:29:53 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:29:53 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:29:53 ERROR [main] generator.XmlReporter - java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\ppt.dtd (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\Share\eclipse\workspace\ppt\input\49-2008_11\ppt.dtd (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.io.FileInputStream.<init>(FileInputStream.java:66)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1316)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:283)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1168)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1068)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:988)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:645)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:508)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:395)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:277)
+	at generator.XmlReporter.parse(XmlReporter.java:169)
+	at generator.XmlReporter.<init>(XmlReporter.java:68)
+	at generator.XmlReporter.main(XmlReporter.java:153)
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### Starting powerpoint generation
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### BEGIN ###
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - -----------------------
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### parsing properties file
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### Base dir="C:/Share/eclipse/workspace/ppt/"
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### Path to input files="C:/Share/eclipse/workspace/ppt/input/49-2008_11/"
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### XML reporting to parse="C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml"
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### Power point file path="C:/Share/eclipse/workspace/ppt/output/"
+2009-Feb-10 18:32:01 INFO  [main] generator.XmlReporter - ### Parsing XML file : C:/Share/eclipse/workspace/ppt/input/49-2008_11/reporting.xml ###
+2009-Feb-10 18:32:01 DEBUG [main] sax.PageHandler - Start parsing report
+2009-Feb-10 18:32:02 DEBUG [main] sax.PageHandler - End parsing
+2009-Feb-10 18:32:02 DEBUG [main] sax.PageHandler - Resultats du parsing
+2009-Feb-10 18:32:02 DEBUG [main] sax.PageHandler - ### PAGE ###
+type: title
+title: u.go Service Performance Board
+week: 49
+year: 2008
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 92.45
+prevAv: 81.25
+responseTime: 40.89
+prevRt: 43.67
+rtMax: 40.0
+rtMin: 36.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 1
+Status : status 2
+Status : test2
+héhé
+-----------------------
+### PAGE ###
+type: graphs
+week: 48
+year: 2008
+transaction: 11
+reporting: 7
+availability: 98.81
+prevAv: 90.47
+responseTime: 26.19
+prevRt: 29.11
+rtMax: 40.0
+rtMin: 35.0
+avMax: 98.0
+avMin: 88.0
+Summary : 
+Status : status 4
+Status : status 5
+Status : Coucou héhé
+-----------------------
+### PAGE ###
+type: calendar
+calendar: 
+Day :
+col0: Monday 01/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: orange
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Tuesday 02/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Wednesday 03/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Thursday 04/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: white
+col9: green
+col10: green
+col11: green
+col12: green
+col13: green
+col14: green
+col15: green
+col16: green
+col17: green
+col18: green
+col19: white
+col20: white
+col21: white
+col22: white
+col23: white
+col24: white
+Day :
+col0: Friday 05/12
+col1: white
+col2: white
+col3: white
+col4: white
+col5: white
+col6: white
+col7: white
+col8: dodgerblue
+col9: green
+col10: green
+col11: green
+col12: orange
+col13: orange
+col14: orange
+col15: green
+col16: green
+col17: green
+col18: white
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Saturday 06/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+Day :
+col0: Sunday 07/12
+col1: yellow
+col2: yellow
+col3: yellow
+col4: yellow
+col5: yellow
+col6: yellow
+col7: yellow
+col8: yellow
+col9: yellow
+col10: yellow
+col11: yellow
+col12: yellow
+col13: yellow
+col14: yellow
+col15: yellow
+col16: yellow
+col17: yellow
+col18: yellow
+col19: yellow
+col20: yellow
+col21: yellow
+col22: yellow
+col23: yellow
+col24: yellow
+-----------------------
+### PAGE ###
+type: issues
+issues: 
+issue :
+begin: Begin
+end: End
+description: Description
+impacts: Impacts
+actions: Actions
+issue :
+begin: Mon 01/12 11:15
+end: 01/12 11:30
+description: Airbus People issue
+impacts: 
+					Slow Response time on AirbusPeople portal.
+				
+actions: 
+issue :
+begin: Mon 01/12 17:00
+end: 01/12 17:30
+description: u.go Expense errors
+impacts: 
+					u.go Expense partially unavailable. Errors displayed
+					messages on web pages. Pb # 124987 19 incidents
+				
+actions: 
+issue :
+begin: Fri 05/12 7:00
+end: 05/12 8:00
+description: KDS v6.7
+impacts: 
+actions: 
+issue :
+begin: Fri 05/12 18:00
+end: 09/12 20:00
+description: Expense ECC6 migration
+impacts: 
+					From Friday the 5th of December 2008 at 18:00 to
+					Tuesday the 9th of December 2008 at 20:00 (CET).
+				
+actions: 
+issue :
+begin: Fri 05/12 11:45
+end: 05/12 14:15
+description: KDS unscheduled outage
+impacts: u.go Booking is unstable.
+actions: 
+-----------------------
+### PAGE ###
+type: legal
+-----------------------
+
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Title slide
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Graph slide
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - availability path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - response time path :C:/Share/eclipse/workspace/ppt/input/49-2008_11/48-2008_11_availability.png
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Calendar slide
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Issues slide
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - Row #1 height=55
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - Row #2 height=55
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - Row #3 height=55
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - Row #4 height=55
+2009-Feb-10 18:32:02 DEBUG [main] Template.TemplateSlide - Row #5 height=55
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Legal slide
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### Saving new slideshow
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - Output file : "C:/Share/eclipse/workspace/ppt/output/2008-W49_u.go_Service_Performance_Board.ppt"
+2009-Feb-10 18:32:02 INFO  [main] generator.XmlReporter - ### END ###
