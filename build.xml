@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="build" default="start">
+	<target name="init">
+		<property name="src_dir" value="C:\Share\eclipse\workspace\ppt\bin" />
+	</target>
+	<target name="start" depends="init">
+		<echo message="Begin build.xml" />
+
+		<ftp server="s880r71" port="21" remotedir="/u001/dvp/www/spi_jer/reporting/ppt/bin" userid="opera" password="root" passive="yes" depends="yes" binary="yes">
+			<fileset dir="${src_dir}">
+				<include name="**/*.class" />				
+			</fileset>
+		</ftp>
+		<echo message="End build.xml" />
+	</target>
+</project>

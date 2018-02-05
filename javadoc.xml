@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/poi-scratchpad-3.1-FINAL-20080629.jar;lib/log4j-1.2.13.jar;lib/poi-3.1-FINAL-20080629.jar;lib/commons-logging-1.1.jar;lib/junit-3.8.1.jar" destdir="doc" doctitle="PowerPoint Generator documentation" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="sax,Template" source="1.6" sourcefiles="src/generator/PhpLaunch.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

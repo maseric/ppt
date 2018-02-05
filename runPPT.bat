@@ -1,0 +1,3 @@
+cd C:\Share\eclipse\workspace\ppt\
+"C:\Program Files\Java\jdk1.6.0_02\bin\java" -classpath C:\Share\eclipse\workspace\ppt\bin;C:\Share\eclipse\workspace\poi-3.1-FINAL\poi-3.1-FINAL-20080629.jar;C:\Share\eclipse\workspace\poi-3.1-FINAL\lib\commons-logging-1.1.jar;C:\Share\eclipse\workspace\poi-3.1-FINAL\lib\junit-3.8.1.jar;C:\Share\eclipse\workspace\poi-3.1-FINAL\lib\log4j-1.2.13.jar;C:\Share\eclipse\workspace\poi-3.1-FINAL\poi-scratchpad-3.1-FINAL-20080629.jar;C:\Share\eclipse\workspace\ppt\mysql.jar generator.XmlReporter
+Pause
